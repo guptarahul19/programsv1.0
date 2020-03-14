@@ -1,1 +1,1 @@
-The following code contains implementation of DDA to plot a line in C++
+The following files contain codes for implementation of various algorithms for graphics in C++
