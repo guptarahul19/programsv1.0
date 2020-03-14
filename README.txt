@@ -1,0 +1,1 @@
+The following code contains implementation of DDA to plot a line in C++
